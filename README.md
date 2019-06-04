@@ -4,7 +4,7 @@
 The repository includes codes for popular NUCLEO board based on STM32 F446RE written with the use of only Hardware Abstraction Layer (HAL)
 library from ST and STM32CubeMX - STM32Cube initialization code generator.
 
-Peripheral modules used in this project include:  
+## Peripheral modules used in this project include:  
 1.X-NUCLEO-IKS01A2 expansion board connected directly to STM32F446RE, via the I2C serial bus.  
 https://www.st.com/en/ecosystems/x-nucleo-iks01a2.html  
     Modules used:  
