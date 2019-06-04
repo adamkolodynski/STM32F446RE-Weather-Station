@@ -15,7 +15,12 @@ https://www.st.com/en/ecosystems/x-nucleo-iks01a2.html
 2. LCD numeric display module WC 1602A compatible with HD44780 driver.  
     http://osworld.pl/wp-content/uploads/WC1602A-STBLWHTC-06.pdf
 
-    
-    
+# Instructions  
+## Board connections:
+
+| LCD 2x16  | X-NUCLEO-IKS01A2 |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
     
 
