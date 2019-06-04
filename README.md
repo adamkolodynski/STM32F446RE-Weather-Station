@@ -43,3 +43,7 @@ https://www.st.com/en/ecosystems/x-nucleo-iks01a2.html
 | +3.3V  | +3.3V  |                             
 | PB8(I2C1_SDA)  | CN5-9  |   
 | PB9(I2C1_SCL)  | CN5-10  |   
+## 2. Upload the code inside the board  
+The code contains all libraries used by peripherical modules but make sure you all have a working environment.  
+Build the code and run it.  
+If it fails then make sure default HAL libraries, SENSORLIB and LCDLIB are added inside project properties.  
