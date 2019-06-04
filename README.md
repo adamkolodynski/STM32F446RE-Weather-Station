@@ -18,9 +18,23 @@ https://www.st.com/en/ecosystems/x-nucleo-iks01a2.html
 # Instructions  
 ## Board connections:
 
-| LCD 2x16  | X-NUCLEO-IKS01A2 |
+| STM32F446  | LCD 2x16 |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| GND  | Vss  |
+| +5V  | Vcc  |
+| 0-5V  | Vee  |
+| PB6  | RS  |
+| GND(write only)  | RW  |
+| PC7  | E  |
+| PC6  | D0 |
+| PA12 | Dl  |
+| PC2  | D2  |
+| PC3  | D3  |
+| PA9  | D4  |
+| PA8  | D5  |
+| PC9  | D6  |
+| PC8  | D7  |
+| +5V  | LED+  |
+| GND  | LED-  |
     
 
